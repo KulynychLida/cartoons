@@ -1,0 +1,156 @@
+body {
+    background-color: #E7DFD8;
+    margin: 0;
+    font-family: "Inter",sans-serif ;
+}
+h2, p {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    margin: 0px auto;
+    width: 1119px;
+}
+span {
+    width: 74px;
+    height: 74px;
+    border-radius: 100px;
+    color: #101010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+}
+/* first section */
+.mikey {
+    padding: 99px 0px;
+}
+.mikey-container {
+    display: flex;
+    gap: 107px;
+}
+.mikey-desc {
+    font-size: 19px;
+    color: #101010;
+    line-height: 189%;
+    display: flex;
+    align-items: center;
+    padding-bottom: 28px;
+}
+.mikey-desc span {
+    background-color: #B99FEA;
+    margin-right: 30px;
+}
+.mikey-title {
+    color: #101010;
+    line-height: 130%;
+    font-size: 35px;
+    letter-spacing: 0.03em;
+    padding-bottom: 30px;
+    font-weight: 400;
+}
+.mikey-text {
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    font-weight: 400;
+    padding-bottom: 35px;
+}
+.mikey-link {
+    background-color: #B99FEA;
+    color:#000;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+/* second section */
+.koko {
+    padding: 99px 0px;
+}
+.koko-container {
+    display: flex;
+    gap: 139px;
+}
+.koko-desc {
+    font-size: 19px;
+    color: #101010;
+    line-height: 189%;
+    display: flex;
+    align-items: center;
+    padding-bottom: 27px;
+}
+.koko-desc span {
+    background-color: #EBA789;
+    margin-right: 19px;
+}
+.koko-title {
+    color: #101010;
+    line-height: 130%;
+    font-size: 35px;
+    letter-spacing: 0.03em;
+    padding-bottom: 30px;
+    font-weight: 400;
+}
+.koko-text {
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    font-weight: 400;
+    padding-bottom: 35px;
+}
+.koko-link {
+    background-color: #EBA789;
+    color: #000;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+/* third section */
+.moana {
+    padding: 99px 0px;
+}
+.moana-container {
+    display: flex;
+    gap: 139px;
+}
+.moana-desc {
+    font-size: 19px;
+    color: #101010;
+    line-height: 189%;
+    display: flex;
+    align-items: center;
+    padding-bottom: 27px;
+}
+.moana-desc span {
+    background-color: #96DBC6;
+    margin-right: 21px;
+}
+.moana-title {
+    color: #101010;
+    line-height: 130%;
+    font-size: 35px;
+    letter-spacing: 0.03em;
+    padding-bottom: 30px;
+    font-weight: 400;
+}
+.moana-text {
+    font-size: 15px;
+    line-height: 158%;
+    color: #101010;
+    font-weight: 400;
+    padding-bottom: 35px;
+}
+.moana-link {
+    background-color: #96DBC6;
+    color: #000;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
